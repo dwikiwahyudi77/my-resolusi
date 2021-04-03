@@ -1,0 +1,4 @@
+My Resolusi
+- Konsisten untuk belajar 6 jam/hari seminggu
+- Belajar Framework Tailwind
+- Belajar Framework React/Vue
