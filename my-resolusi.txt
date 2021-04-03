@@ -1,4 +1,5 @@
 My Resolusi
 - Konsisten untuk belajar 6 jam/hari seminggu
+- Memperdalam Javascript
 - Belajar Framework Tailwind
 - Belajar Framework React/Vue
