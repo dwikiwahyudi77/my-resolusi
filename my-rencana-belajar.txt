@@ -4,4 +4,4 @@ RENCANA BELAJAR
   - ES6
 - React Framework
 - Vue
-- Next js
+- Node
