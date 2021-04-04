@@ -1,3 +1,5 @@
 RENCANA BELAJAR 
-- Javascript OOP
+- Javascript
+  - OOP Javascript
+  - ES6
 - React Framework
