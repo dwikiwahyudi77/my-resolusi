@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Dwiki Wahyudi dari Depok
+
+Resolusi saya:
+- Membuat web menggunakan framework Javascript
+- Bekeraj di start-up
