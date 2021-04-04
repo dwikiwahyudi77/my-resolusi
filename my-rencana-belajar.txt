@@ -4,3 +4,4 @@ RENCANA BELAJAR
   - OOP Javascript
   - ES6
 - React Framework
+- Vue
