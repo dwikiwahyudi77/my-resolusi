@@ -1,6 +1,7 @@
 RENCANA BELAJAR 
 - Javascript
-  - API
   - OOP Javascript
   - ES6
 - React Framework
+- Vue
+- Next js
